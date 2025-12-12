@@ -18,7 +18,7 @@ To obtain a local copy of the repository and set it up, please follow these step
 * Execute the following command, replacing URL with the repository’s URL:
   1. Clone the Repository:
      ```
-     git clone **Confidential**
+     git clone https://github.com/sultanjke/log-analyzer.git
      ```
   2. Install dependencies:
      ```
